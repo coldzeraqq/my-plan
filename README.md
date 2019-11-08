@@ -16,7 +16,7 @@
 ## node.js
 
 
-##vue.js
+## vue.js
 
 
 ## 数据库
